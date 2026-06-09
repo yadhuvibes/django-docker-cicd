@@ -2,3 +2,4 @@ trigger test
 trigger test
 trigger test2
 trigger testdose2
+trigger test
